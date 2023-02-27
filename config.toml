@@ -1,7 +1,7 @@
 # MAIN base
-baseURL = "https://apsho-hugo.netlify.app/"
+baseURL = "https://github.com/starfishsme/lppa/"
 languageCode = "en-us"
-title = "Apsho | App landing template"
+title = "Leverage Point Process Analytics"
 theme = "apsho"
 
 # Navigation Bar
